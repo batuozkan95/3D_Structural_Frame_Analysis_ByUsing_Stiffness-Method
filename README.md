@@ -1,1 +1,1 @@
-# 3D_Structural_Frame_Analysis_ByUsing_Stiffness-Method
+# 3D_Structural_Frame_Analysis_ByUsing_StiffnessMethod
